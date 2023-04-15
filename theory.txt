@@ -1,0 +1,17 @@
+1. What is emmet - emmet is used to create boilerplate code which is repeated in every code
+
+2. difference between library and framework - libraries facilitate you to incorporate pieces of their code into yours for ease of development
+whereas in library, the library defines the way you will be writing the code. The inversion of control is the biggest difference.
+
+3. Why is react called react - as the developers intended to develop it for the sake of fast and responsive interfaces
+
+4. What is crossorigin in script tag - The crossorigin attribute specifies that the script element supports CORS.
+ CORS stands for Cross Origin Resource Sharing. CORS is a standard mechanism to retrieve files from a third party domain or server.
+ If specified, the script file request will be sent with or without credentials.
+
+5.What is difference between react and reactDOM - React contains functionality utilised in web and mobile apps. ReactDOM functionality is utilised only in web apps.
+
+6. What is difference between react.development.js and react.production.js - react.development.js - More developer friendly, readable, will take more size. react.production.js - Minified code that is not developer friendly as it focused on decreasing in file size, code efficiency
+
+7. What is async vs defer - async loads the script while the html is parsed and pauses the html parsing to execute the script post loading
+defer loads the script while html is parsed and when the html parsing is completed, the script is executed.
